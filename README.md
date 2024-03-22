@@ -1,4 +1,4 @@
-# Hello, I'm Developer
+[# Hello, I'm Developer
 ## **Data Scientist**
 
 I am a data scientist with a fervent drive for 
@@ -10,3 +10,4 @@ to address tangible challenges and empower informed decision-making.
 
 ## 🛠 Languages & Tools
 [![Data Science](https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,mysql,scala&perline=6)](https://skillicons.dev)
+](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
