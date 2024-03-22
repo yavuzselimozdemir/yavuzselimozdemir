@@ -9,8 +9,4 @@ information. I am dedicated to utilizing data-driven solutions
 to address tangible challenges and empower informed decision-making.
 
 ## 🛠 Languages & Tools
-[![Data Science](https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,mysql,scala&perline=6)](https://skillicons.dev)
-](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-
-
-[img]https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E[/img]
+[![Data Science](https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,mysql,scala&perline=6)](https://skillicons.dev)]
