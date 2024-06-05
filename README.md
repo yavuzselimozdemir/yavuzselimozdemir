@@ -8,4 +8,4 @@ information. I am dedicated to utilizing data-driven solutions
 to address tangible challenges and empower informed decision-making.
 
 ## 🛠 Languages & Tools
-[![Data Science](https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,mysql,scala&perline=6)](https://skillicons.dev)]
+[![Data Science](https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,mysql,scala&perline=6)](https://skillicons.dev)
