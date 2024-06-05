@@ -1,4 +1,3 @@
-[# Hello, I'm Developer
 ## **Data Scientist**
 
 I am a data scientist with a fervent drive for 
