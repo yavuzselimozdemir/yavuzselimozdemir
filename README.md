@@ -9,3 +9,5 @@ to address tangible challenges and empower informed decision-making.
 
 ## 🛠 Languages & Tools
 [![Data Science](https://skillicons.dev/icons?i=kali,python,javascript,c,cpp,java,mysql,css,html,dotnet,git,scala&perline=6)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://instagram.com)
